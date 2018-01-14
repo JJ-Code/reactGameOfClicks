@@ -1,5 +1,5 @@
 .titlebox {
-    background-image: url('/img/hugs-minions.gif');
+    background-image: url('https://media.giphy.com/media/izrF7CxZfC4eI/giphy.gif');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -9,8 +9,8 @@
     /* opacity: 0.3; */
     /* filter: alpha(opacity=30); */
     font-family: 'Holtwood One SC', serif;
-    color: #fff;
-    text-shadow: 0 0 5px #000;
+    color: rgb(0, 0, 0);
+    /* text-shadow: 0 0 5px rgb(250, 245, 245); */
     margin-bottom: 20px;
 }
 
@@ -22,3 +22,4 @@
 .titlebox p {
     font-size: 1.8em;
 }
+

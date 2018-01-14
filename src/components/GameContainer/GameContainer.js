@@ -49,7 +49,7 @@ class GameContainer extends Component {
 
         if (findGif) {
             this.setState({
-                message: "Wrong, you already slected that!",
+                message: "Wrong, you already selected that!",
                 topScore: (this.state.currentScore > this.state.topScore) ?
                     this.state.currentScore : this.state.topScore,
                 currentScore: 0,
